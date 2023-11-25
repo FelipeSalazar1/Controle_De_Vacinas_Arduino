@@ -49,6 +49,11 @@ Bem-vindo ao projeto de monitoramento de geladeira desenvolvido na global soluti
 4. **Testes:**
    - Realizar testes para garantir que o monitoramento de temperatura e a detecção de porta estejam funcionando corretamente.
 
+
+## Link para simulação online
+
+- [Visualizar Projeto no Tinkercad](https://www.tinkercad.com/things/8cf2JlX1rGj-surprising-bojo-habbi/editel?sharecode=9IWzzDmsSVxCSCkc4zNhfEP_Gpk0Htu2ckGWBkBjUuA)
+
 ## Contribuições e Melhorias
 
 Este projeto está em constante desenvolvimento, e contribuições são bem-vindas. Se você identificar melhorias ou tiver sugestões para novas funcionalidades, sinta-se à vontade para contribuir.
