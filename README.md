@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
 
-Bem-vindo ao projeto de monitoramento de geladeira desenvolvido no primeiro semestre do curso de Engenharia de Software da FIAP. Este projeto utiliza a plataforma Arduino para monitorar a temperatura interna da geladeira e determinar se a porta está aberta ou fechada. O principal objetivo é fornecer um controle eficiente para o armazenamento de vacinas, garantindo que as condições ideais sejam mantidas.
+Bem-vindo ao projeto de monitoramento de geladeira desenvolvido na global solution do nosso primeiro semestre do curso de Engenharia de Software da FIAP. Este projeto utiliza a plataforma Arduino para monitorar a temperatura interna da geladeira e determinar se a porta está aberta ou fechada. O principal objetivo é fornecer um controle eficiente para o armazenamento de vacinas, garantindo que as condições ideais sejam mantidas.
 
 ## Funcionalidades
 
