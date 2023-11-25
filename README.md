@@ -11,7 +11,7 @@ Bem-vindo ao projeto de monitoramento de geladeira desenvolvido no primeiro seme
    - Os dados são exibidos em tempo real no display conectado ao Arduino.
 
 2. **Detecção de Porta Aberta/Fechada:**
-   - Um sensor magnético identifica se a porta da geladeira está aberta ou fechada.
+   - Um sensor de distância identifica se a porta da geladeira está aberta ou fechada.
    - O status da porta é indicado no display, facilitando a verificação rápida.
 
 3. **Alarme de Porta Aberta:**
@@ -23,18 +23,20 @@ Bem-vindo ao projeto de monitoramento de geladeira desenvolvido no primeiro seme
 ## Hardware Utilizado
 
 - Arduino Uno
-- Sensor de Temperatura DS18B20
-- Sensor Magnético para Porta
+- Sensor de Temperatura
+- Sensor de Distância
 - Display LCD 16x2
 - Buzzer para Alarme Sonoro
+- Potenciômetro
 
 ## Instruções de Montagem
 
 1. **Conexão dos Sensores:**
    - Conectar o sensor de temperatura à porta digital do Arduino.
-   - Conectar o sensor magnético à porta digital correspondente.
+   - Conectar o sensor de distância à porta digital correspondente.
    - Conectar o display LCD ao Arduino.
    - Conectar o buzzer à porta digital para o alarme.
+   - Conectar o potenciômetro à porta digital de acordo.
 
 2. **Configuração do Código:**
    - Certificar-se de ajustar as configurações de calibração do sensor de temperatura conforme necessário.
@@ -50,15 +52,3 @@ Bem-vindo ao projeto de monitoramento de geladeira desenvolvido no primeiro seme
 ## Contribuições e Melhorias
 
 Este projeto está em constante desenvolvimento, e contribuições são bem-vindas. Se você identificar melhorias ou tiver sugestões para novas funcionalidades, sinta-se à vontade para contribuir.
-
-## Licença
-
-Este projeto é licenciado sob a [Licença MIT](LICENSE).
-
-## Contato
-
-Para mais informações ou dúvidas, entre em contato com o desenvolvedor:
-
-- Nome: [Seu Nome]
-- E-mail: [seuemail@example.com]
-- GitHub: [seuusername](https://github.com/seuusername)
